@@ -10,7 +10,7 @@ const Portfolio = () => {
       id: 1,
       title: 'AWS Certified Solutions Architect – Associate',
       category: 'Certifications',
-      image: '/src/assets/aws-cert.png',
+      image: '/portfolio/image18.png',
       description: 'Amazon Web Services - Architecture cloud et solutions scalables',
       links: [
         { type: 'Certificate', url: '#' },
@@ -21,7 +21,7 @@ const Portfolio = () => {
       id: 2,
       title: 'Kubernetes (CKA)',
       category: 'Certifications',
-      image: '/src/assets/cka-cert.png',
+      image: '/portfolio/image19.png',
       description: 'Cloud Native Computing Foundation - Administration Kubernetes',
       links: [
         { type: 'Certificate', url: '#' }
@@ -31,7 +31,7 @@ const Portfolio = () => {
       id: 3,
       title: 'Azure Fundamentals (AZ-900)',
       category: 'Certifications',
-      image: '/src/assets/azure-cert.png',
+      image: '/portfolio/image21.png',
       description: 'Microsoft Azure - Fondamentaux du cloud computing',
       links: [
         { type: 'Certificate', url: '#' },
@@ -42,7 +42,7 @@ const Portfolio = () => {
       id: 4,
       title: 'Adobe Certified Professional - AEM Developer',
       category: 'Certifications',
-      image: '/src/assets/adobe-cert.png',
+      image: '/portfolio/adobe-cert.png',
       description: 'Adobe Experience Manager - Développement professionnel',
       links: [
         { type: 'Certificate', url: '#' }
@@ -52,7 +52,7 @@ const Portfolio = () => {
       id: 5,
       title: 'Kong Gateway Foundations',
       category: 'Certifications',
-      image: '/src/assets/kong-cert.png',
+      image: '/portfolio/image20.png',
       description: 'Kong Inc - Gestion d\'API Gateway',
       links: [
         { type: 'Certificate', url: '#' }
@@ -64,7 +64,7 @@ const Portfolio = () => {
       id: 6,
       title: 'API Multi-tenant ASP.NET Core',
       category: 'Project',
-      image: '/src/assets/api-project.png',
+      image: '/portfolio/api-project.png',
       description: 'API REST multi-tenant avec Angular frontend',
       techStack: 'ASP.NET Core - Angular - Docker - Kubernetes',
       links: [
@@ -75,7 +75,7 @@ const Portfolio = () => {
       id: 7,
       title: 'Infrastructure Terraform AWS',
       category: 'Project',
-      image: '/src/assets/terraform-project.png',
+      image: '/portfolio/terraform-project.png',
       description: 'Provisioning d\'infrastructure cloud avec IaC',
       techStack: 'Terraform - AWS - EKS - Ansible',
       links: [
@@ -87,7 +87,7 @@ const Portfolio = () => {
       id: 8,
       title: 'Pipeline CI/CD Jenkins',
       category: 'Project',
-      image: '/src/assets/pipeline-project.png',
+      image: '/portfolio/pipeline-project.png',
       description: 'Automatisation des déploiements et tests',
       techStack: 'Jenkins - Docker - Kubernetes - GitOps',
       links: [
@@ -98,7 +98,7 @@ const Portfolio = () => {
       id: 9,
       title: 'Monitoring Stack Kubernetes',
       category: 'Project',
-      image: '/src/assets/monitoring-project.png',
+      image: '/portfolio/monitoring-project.png',
       description: 'Observabilité complète avec Prometheus et Grafana',
       techStack: 'Prometheus - Grafana - ELK Stack - Kubernetes',
       links: [
@@ -110,7 +110,7 @@ const Portfolio = () => {
       id: 10,
       title: 'Plateforme Microservices',
       category: 'Project',
-      image: '/src/assets/microservices-project.png',
+      image: '/portfolio/microservices-project.png',
       description: 'Architecture microservices scalable pour e-commerce',
       techStack: 'Docker - Kubernetes - Kong - Redis',
       links: [

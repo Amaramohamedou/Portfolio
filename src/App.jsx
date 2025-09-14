@@ -184,7 +184,7 @@ function App() {
         <header className="site-header container">
           <div className="header-left">
             <div className="profile-photo-wrapper">
-              <img src="/src/assets/profile_picture.png" alt="Mohamedou AMARA" className="profile-photo" />
+              <img src="/profile_picture.png" alt="Mohamedou AMARA" className="profile-photo" />
             </div>
             <div className="base-info">
               <h1 className="user-name"><strong>Mohamedou</strong> AMARA</h1>

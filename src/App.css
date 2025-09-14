@@ -768,7 +768,7 @@ img {
 .card-image-container {
   position: relative;
   overflow: hidden;
-  height: 200px;
+  height: 350px;
   background: linear-gradient(135deg, var(--surface-alt-color), var(--border-color));
   display: flex;
   align-items: center;
@@ -894,7 +894,7 @@ img {
   }
   
   .card-image-container {
-    height: 180px;
+    height: 250px;
   }
 }
 
